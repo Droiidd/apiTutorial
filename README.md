@@ -8,6 +8,10 @@
 > within your IDE. I ended up using his exact sound file originally for convenience.
 > It's very easy to add your own, and I will try doing so and testing it out tonight.
 > Used postman instead of boomerang, but they're practically the same.
+>
+> The most relavant parsed information would be the translated text. We created
+> a loop that pings the api for its status and checks if it finished translating.
+> Then we can access the translated string.
 > - https://youtu.be/9oq7Y8n1t00
 > - Made in intellij
 
